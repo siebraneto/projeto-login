@@ -27,7 +27,7 @@
         background-image: linear-gradient(to top, #49a09d, blueviolet);
         width: 100vw;
     }
-    
+
     section#login {
         width: 950px;
     }
@@ -42,4 +42,12 @@
         float: right;
         width: 50%;
         }
+    
+    div#formulario > h1 {
+    font-size: 2em;
+    }
+
+    div#formulario > p {
+        font-size: 1.2em;
+    }
 }
